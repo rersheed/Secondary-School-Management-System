@@ -12,7 +12,8 @@ The system covers the following sections:
 
 # Usage
 After downloading and extracting the project files, do the following:
-1. run composer install
-2. run php artisan key:generate
-3. run php artisan migrate
-4. run php artisan serve
+1. rename the .env.example file to .env and change the value in the file to suit your system
+2. run composer install
+3. run php artisan key:generate
+4. run php artisan migrate
+5. run php artisan serve
